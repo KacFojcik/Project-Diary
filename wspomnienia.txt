@@ -1,0 +1,8 @@
+neutralny 1                       Thu Jan 19 20:47:46 2023 neutralny
+neutralny 2                       Thu Jan 19 20:47:55 2023 neutralny
+neutralny 3                       Thu Jan 19 20:48:00 2023 neutralny
+smutny 1                       Thu Jan 19 20:48:04 2023 smutny
+smutny 2                       Thu Jan 19 20:48:12 2023 smutny
+smutny 3                       Thu Jan 19 20:48:17 2023 smutny
+radosny 1                       Thu Jan 19 20:48:23 2023 radosny
+radosny 3                       Thu Jan 19 20:48:35 2023 radosny
